@@ -1,0 +1,16 @@
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.csproj.AssemblyReference.cache
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.GeneratedMSBuildEditorConfig.editorconfig
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfoInputs.cache
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.AssemblyInfo.cs
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.csproj.CoreCompileInputs.cache
+D:\@Projects\c#-egitim\degiskenler\bin\Debug\net5.0\degiskenler.exe
+D:\@Projects\c#-egitim\degiskenler\bin\Debug\net5.0\degiskenler.deps.json
+D:\@Projects\c#-egitim\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.json
+D:\@Projects\c#-egitim\degiskenler\bin\Debug\net5.0\degiskenler.runtimeconfig.dev.json
+D:\@Projects\c#-egitim\degiskenler\bin\Debug\net5.0\degiskenler.dll
+D:\@Projects\c#-egitim\degiskenler\bin\Debug\net5.0\ref\degiskenler.dll
+D:\@Projects\c#-egitim\degiskenler\bin\Debug\net5.0\degiskenler.pdb
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.dll
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\ref\degiskenler.dll
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.pdb
+D:\@Projects\c#-egitim\degiskenler\obj\Debug\net5.0\degiskenler.genruntimeconfig.cache
