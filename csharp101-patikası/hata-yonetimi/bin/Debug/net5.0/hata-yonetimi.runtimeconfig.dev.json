@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\elif\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\elif\\.nuget\\packages"
+    ]
+  }
+}
