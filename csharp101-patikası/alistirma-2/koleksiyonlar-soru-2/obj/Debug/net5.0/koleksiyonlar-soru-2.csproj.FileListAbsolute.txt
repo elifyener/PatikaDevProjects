@@ -1,0 +1,16 @@
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.AssemblyInfoInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.AssemblyInfo.cs
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\bin\Debug\net5.0\koleksiyonlar-soru-2.exe
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\bin\Debug\net5.0\koleksiyonlar-soru-2.deps.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\bin\Debug\net5.0\koleksiyonlar-soru-2.runtimeconfig.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\bin\Debug\net5.0\koleksiyonlar-soru-2.runtimeconfig.dev.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\bin\Debug\net5.0\koleksiyonlar-soru-2.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\bin\Debug\net5.0\ref\koleksiyonlar-soru-2.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\bin\Debug\net5.0\koleksiyonlar-soru-2.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\ref\koleksiyonlar-soru-2.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\koleksiyonlar-soru-2\obj\Debug\net5.0\koleksiyonlar-soru-2.genruntimeconfig.cache
