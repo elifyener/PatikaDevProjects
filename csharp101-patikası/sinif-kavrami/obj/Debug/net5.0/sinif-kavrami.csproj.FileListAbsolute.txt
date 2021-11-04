@@ -1,0 +1,16 @@
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfoInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.AssemblyInfo.cs
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.exe
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.deps.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.runtimeconfig.dev.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\bin\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\bin\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\ref\sinif-kavrami.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\sinif-kavrami\obj\Debug\net5.0\sinif-kavrami.genruntimeconfig.cache
