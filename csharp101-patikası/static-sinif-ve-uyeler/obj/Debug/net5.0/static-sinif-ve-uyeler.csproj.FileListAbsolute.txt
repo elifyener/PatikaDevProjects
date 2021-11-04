@@ -1,0 +1,16 @@
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfoInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.AssemblyInfo.cs
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.exe
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.deps.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.runtimeconfig.dev.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\bin\Debug\net5.0\ref\static-sinif-ve-uyeler.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\bin\Debug\net5.0\static-sinif-ve-uyeler.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\ref\static-sinif-ve-uyeler.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\static-sinif-ve-uyeler\obj\Debug\net5.0\static-sinif-ve-uyeler.genruntimeconfig.cache
