@@ -1,0 +1,16 @@
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.csproj.AssemblyReference.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfoInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.AssemblyInfo.cs
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.csproj.CoreCompileInputs.cache
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\bin\Debug\net5.0\encapsulation.exe
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\bin\Debug\net5.0\encapsulation.deps.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\bin\Debug\net5.0\encapsulation.runtimeconfig.dev.json
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\bin\Debug\net5.0\encapsulation.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\bin\Debug\net5.0\ref\encapsulation.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\bin\Debug\net5.0\encapsulation.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\ref\encapsulation.dll
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.pdb
+C:\Users\elif\Desktop\PatikaDevProjects\csharp101-patikası\encapsulation\obj\Debug\net5.0\encapsulation.genruntimeconfig.cache
