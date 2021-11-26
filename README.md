@@ -2,7 +2,7 @@
 Patikada yer alan eğitimlerle ilgili projelerimin ve alıştırmaların bulunduğu repositorydir.
 
 ## .Net Core Patikası
-- Veri Yapıları ve Algoritmalar ✔
+- Data Structures and Algorithms ✔
 - C# 101 ✔
 - Object Oriented Programming
 - .Net Core
@@ -13,7 +13,7 @@ Patikada yer alan eğitimlerle ilgili projelerimin ve alıştırmaların bulundu
 - HTML ✔
 - CSS ✔
 - Bootstrap
-- Veri Yapıları ve Algoritmalar ✔
+- Data Structures and Algorithms ✔
 - Javascript
 - React
 - Redux
