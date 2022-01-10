@@ -18,3 +18,8 @@ Patikada yer alan eğitimlerle ilgili projelerimin ve alıştırmaların bulundu
 - React
 - Redux
 - Frontend Web Development Projeleri
+
+## Veri Analizi Patikası
+- Veri Yapıları ve Algoritmalar ✔
+- Python Temel✔
+- SQL
