@@ -8,8 +8,8 @@ Aşağıdaki sorgu senaryolarını dvdrental örnek veri tabanı üzerinden ger�
 5. film tablosundaki uzunluğu(length) 50 ten büyük OLMAYIP aynı zamanda rental_rate değeri 2.99 veya 4.99 OLMAYAN verileri sıralayınız.
 */
 
-SELECT title, description FROM film
-SELECT * FROM film WHERE length > 60 AND length < 75
-SELECT * FROM film WHERE rental_rate = 0.99 AND replacement_cost = 12.99 OR replacement_cost = 28.99
-SELECT last_name FROM customer WHERE first_name = 'Mary'  -- Smith
-SELECT * FROM film WHERE NOT (length > 50) AND NOT (rental_rate = 2.99 OR rental_rate = 4.99)
+SELECT title, description FROM film;
+SELECT * FROM film WHERE length > 60 AND length < 75;
+SELECT * FROM film WHERE rental_rate = 0.99 AND replacement_cost = 12.99 OR replacement_cost = 28.99;
+SELECT last_name FROM customer WHERE first_name = 'Mary';  -- Smith
+SELECT * FROM film WHERE NOT (length > 50) AND NOT (rental_rate = 2.99 OR rental_rate = 4.99);
