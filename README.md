@@ -1,12 +1,12 @@
 # PatikaDev Eğitim Serisi
-Patikada yer alan eğitimlerle ilgili projelerimin ve alıştırmaların bulunduğu repositorydir.
+Patikada yer alan eğitimlerle ilgili projelerimin ve alıştırmaların bulunduğu repodur.
 
 ## .Net Core Patikası
 - Veri Yapıları ve Algoritmalar ✔
 - C# 101 ✔
 - Object Oriented Programming
 - .Net Core
-- SQL
+- SQL ✔
 - .Net Core Projeleri
 
 ## Frontend Web Development Patikası
@@ -22,4 +22,4 @@ Patikada yer alan eğitimlerle ilgili projelerimin ve alıştırmaların bulundu
 ## Veri Analizi Patikası
 - Veri Yapıları ve Algoritmalar ✔
 - Python Temel✔
-- SQL
+- SQL ✔
