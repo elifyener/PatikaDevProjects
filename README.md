@@ -23,3 +23,10 @@ Patikada yer alan eğitimlerle ilgili projelerimin ve alıştırmaların bulundu
 - Veri Yapıları ve Algoritmalar ✔
 - Python Temel✔
 - SQL ✔
+
+## Veri Bilimi Patikası
+- Veri Yapıları ve Algoritmalar ✔
+- Python Temel✔
+- SQL ✔
+- Veri Bilimi 101
+- Veri Bilimi Projeleri
